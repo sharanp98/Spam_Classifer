@@ -44,7 +44,7 @@ mccabe==0.6.1
 mxnet==1.5.1
 netifaces==0.10.4
 networkx==2.4
-numpy==1.18.2
+numpy==1.22.0
 oauth==1.0.1
 olefile==0.45.1
 onnx==1.6.0
